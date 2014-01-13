@@ -2,7 +2,10 @@ BigNum
 ======
 
 a Big Number in C++ with some Qt libarary 
-I try to get best memory managment so until now this can multiply 10^400 and 10^400
+until now i just used QString and Qdebug from Qt libraries that can replaced with origional cpp classes(string & stream ).
+
+I try to get best memory managment 
+so until now this can multiply 10^400 and 10^400
 
 But there is some problem that will be soleved! :
   1- just positive
